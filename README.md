@@ -3,7 +3,7 @@
 A image to asiic written in golang
 
 ## Install
-You can download in gobuild.io.
+You can use gobuild to download。
 
 ##Usage
 ```sh
