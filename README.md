@@ -13,5 +13,6 @@ if `-to` is not set, image2asiic will print to stdout.
 In `-q` 1 is the highest level quality.
 
 ##Example
+`-q=3`           
 ![image2asiic](https://raw.githubusercontent.com/Alienero/image2asiic/master/example/ex.png "image2asiic")
 ![image2asiic2](https://raw.githubusercontent.com/Alienero/image2asiic/master/example/ex2.png "image2asiic2")
