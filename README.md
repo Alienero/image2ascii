@@ -1,6 +1,6 @@
 #image2asiic
 [![Gobuild Download](http://gobuild.io/badge/github.com/Alienero/image2asiic/downloads.svg)](http://gobuild.io/github.com/Alienero/image2asiic)                    
-A image to asiic written in golang
+A image to asiic tool written in golang
 
 ## Install
 You can use gobuild to download。
